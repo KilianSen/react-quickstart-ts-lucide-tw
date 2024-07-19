@@ -27,4 +27,4 @@ export function ThemeProvider({children}: {children?:ReactElement}) {
 			{children}
 		</ThemeContext.Provider>
 	);
-};
+}
